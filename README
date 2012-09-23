@@ -1,6 +1,6 @@
 Python completions and help.
 
-Includes completions for the ST-API if "import/from sublime" is within  
+Includes completions for the ST-API if "import/from sublime" is within 
 the current file.
 
 The help system is simple but still useful. It will provide help on many 
